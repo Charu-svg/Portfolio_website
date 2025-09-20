@@ -14,7 +14,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🌐 Live Demo
 You can view the live portfolio here:  
-[Portfolio Website](https://charu-svg.github.io/portfolio_website/)
+[Portfolio Website](https://charu-svg.github.io/Portfolio_website/p.html)
 
 ---
 
